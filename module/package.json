@@ -1,0 +1,11 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node staticapi.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
